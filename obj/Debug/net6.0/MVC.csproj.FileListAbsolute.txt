@@ -156,6 +156,7 @@ C:\Users\Usuario\Desktop\CrudMVC\obj\Debug\net6.0\MVC.csproj.CoreCompileInputs.c
 C:\Users\Usuario\Desktop\CrudMVC\obj\Debug\net6.0\MVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Usuario\Desktop\CrudMVC\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cache
 C:\Users\Usuario\Desktop\CrudMVC\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\CrudMVC\obj\Debug\net6.0\MVC.sourcelink.json
 C:\Users\Usuario\Desktop\CrudMVC\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Usuario\Desktop\CrudMVC\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\Usuario\Desktop\CrudMVC\obj\Debug\net6.0\staticwebassets\msbuild.MVC.Microsoft.AspNetCore.StaticWebAssets.props
@@ -172,4 +173,3 @@ C:\Users\Usuario\Desktop\CrudMVC\obj\Debug\net6.0\refint\MVC.dll
 C:\Users\Usuario\Desktop\CrudMVC\obj\Debug\net6.0\MVC.pdb
 C:\Users\Usuario\Desktop\CrudMVC\obj\Debug\net6.0\MVC.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\CrudMVC\obj\Debug\net6.0\ref\MVC.dll
-C:\Users\Usuario\Desktop\CrudMVC\obj\Debug\net6.0\MVC.sourcelink.json
