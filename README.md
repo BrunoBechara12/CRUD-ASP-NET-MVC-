@@ -4,7 +4,10 @@
 
 ## 💻 Projeto
 
-Neste projeto eu desenvolvi um CRUD utilizando o ASP.NET para fazer uma tela de menu e uma tela que exibe os dados que estão guardados no banco de dados, com o Entity Framework pude armazenar todos os dados no banco de forma automática
+Neste projeto eu desenvolvi um CRUD (Create, Read, Update, Delete) em C# simulando uma lista de contatos. Para criar, ler, atualizar e deletar novos contatos utilizei o Entity Framework, que se comunica com o banco de dados e faz essas requisições automáticamente. Já para o frontend utilizei o Asp.Net assim criando duas telas, uma tela de boas vindas e uma que exibe todos os contatos, permitindo que a aplicação funcionasse de acordo com o padrão MVC. 
+
+Para realizar o deploy e criar o banco de dados onde será armazenado todos os contatos, utilizei o Azure, plataforma de armazenamento em nuvem da Microsoft.
+
 
 <br>
 
@@ -16,6 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - .NET
 - Entity Framework
 - ASP.NET MVC
+- Azure 
 
 
 <br>
